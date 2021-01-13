@@ -24,7 +24,8 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tool-FireBase-informational?style=flat&logo=firebase&logoColor=white&color=success)
 
-## Medium Articles
+## Medium Articles 
+(https://medium.com/@sharonzacharia)
 
 
 
