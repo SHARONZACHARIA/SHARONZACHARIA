@@ -4,6 +4,8 @@ Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharonzacharia&theme=radical&show_icons=true&hide=contribs,prs">
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia)](https://github.com/sharonzacharia/github-readme-stats)
+
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
