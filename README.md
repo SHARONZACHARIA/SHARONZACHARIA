@@ -7,11 +7,16 @@
 </p>
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+# Technologies and Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=success)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=success)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=success)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=success)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=success)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=success)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=success)
+
 
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
