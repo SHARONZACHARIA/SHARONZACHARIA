@@ -1,4 +1,4 @@
-# Sharon Zacharia 
+# SHARON ZACHARIA 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
@@ -34,7 +34,7 @@
 [![](https://img.shields.io/badge/Flask-Deploy_ML_Models-informational?style=flat&logo=flask&logoColor=white&color=success)](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
 
 
-[![](https://img.shields.io/badge/Flutter-On_Device_ML-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/flutter-community/on-device-ml-with-custom-tflite-models-in-flutter-apps-5efed94ede0b)
+[![](https://img.shields.io/badge/Flutter-On_Device_ML_Using_TFLite-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/flutter-community/on-device-ml-with-custom-tflite-models-in-flutter-apps-5efed94ede0b)
 
 
 [![](https://img.shields.io/badge/Django-Deply_Django_Apps_On_AWS-informational?style=flat&logo=django&logoColor=green&color=success)](https://medium.com/analytics-vidhya/deploying-django-apps-e2f4d4f355a1)
