@@ -7,8 +7,8 @@ Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact)]
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=Deploy-ML-model)](https://github.com/sharonzacharia/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=OnDeviceML)](https://github.com/sharonzacharia/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=Deploy-ML-model&theme=dark)](https://github.com/sharonzacharia/Deploy-ML-model)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=OnDeviceML&theme=dark)](https://github.com/sharonzacharia/OnDeviceML)
 
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
