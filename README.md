@@ -4,11 +4,19 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharonzacharia&theme=dark&show_icons=true&hide=contribs,prs">
  </a>
 
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact">
+ </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact)](https://github.com/sharonzacharia/Deploy-ML-model)
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=Deploy-ML-model&theme=dark">
+ </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=Deploy-ML-model&theme=dark)](https://github.com/sharonzacharia/Deploy-ML-model)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=OnDeviceML&theme=dark)](https://github.com/sharonzacharia/OnDeviceML)
+
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=OnDeviceML&theme=dark">
+ </a>
+
 
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
