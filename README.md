@@ -17,6 +17,12 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=success)
 ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=success)
 
+![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=success)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
+![](https://img.shields.io/badge/Tool-FireBase-informational?style=flat&logo=firebase&logoColor=white&color=success)
+
+
+
 
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
