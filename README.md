@@ -22,6 +22,20 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tool-FireBase-informational?style=flat&logo=firebase&logoColor=white&color=success)
 
+# Medium Articles
+
+
+
+[![Python](https://img.shields.io/badge/Flutter-Dark_Mode_Using_Provider-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/@sharonzacharia/flutter-provider-package-dark-mode-an-example-application-b51acbcede4f)
+
+
+[![](https://img.shields.io/badge/Flask-Deploy_ML_Models-informational?style=flat&logo=flask&logoColor=white&color=success)](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
+
+
+[![](https://img.shields.io/badge/Flutter-On_Device_ML-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/flutter-community/on-device-ml-with-custom-tflite-models-in-flutter-apps-5efed94ede0b)
+
+
+[![](https://img.shields.io/badge/Django-Deply_Django_Apps_On_AWS-informational?style=flat&logo=django&logoColor=green&color=success)](https://medium.com/analytics-vidhya/deploying-django-apps-e2f4d4f355a1)
 
 
 
