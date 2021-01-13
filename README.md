@@ -5,18 +5,8 @@
  </a>
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact&theme=dark">
  </a>
-
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=Deploy-ML-model&theme=dark">
- </a>
-
-
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonzacharia&repo=OnDeviceML&theme=dark">
- </a>
-
 
 <!--
 **SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
