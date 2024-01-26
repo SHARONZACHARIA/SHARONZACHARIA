@@ -19,6 +19,7 @@
 
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=success)
 ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=green&color=success)
+![](https://img.shields.io/badge/any_text-you_like-blue)
 
 ![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=blue&color=success)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=success)
