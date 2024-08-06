@@ -7,7 +7,12 @@
 
 ### 🚀 About Me
 
-I specialize in analyzing data to derive actionable insights. Leveraging my expertise in Splunk, Dynatrace, and cloud technology, alongside a Master’s in Data Science, I excel in transforming raw data into valuable business insights that drive informed decision-making. My proficiency in machine learning and deep learning enables me to develop predictive models and enhance data-driven strategies for optimal outcomes.
+- 📊 **Data Analysis:** Specialize in analyzing data to derive actionable insights.
+- 🛠️ **Expertise:** Proficient in Splunk, Dynatrace, and cloud technology.
+- 🎓 **Education:** Pursuing a Master’s in Data Science.
+- 💡 **Insight Generation:** Excel in transforming raw data into valuable business insights that drive informed decision-making.
+- 🤖 **Machine Learning:** Skilled in developing predictive models using machine learning and deep learning techniques.
+- 📈 **Data-Driven Strategies:** Enhance data-driven strategies for optimal outcomes.
 
 ### 🔧 Technologies & Tools
 
@@ -77,20 +82,6 @@ I specialize in analyzing data to derive actionable insights. Leveraging my expe
 
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
 - **Google Skills Badge - Generative AI Fundamentals**
-- **Two-time Spot Award Winner** from Deloitte USI for contributions to Cloud Infrastructure cut-over activities
-
-### 🎯 Goals
-
-- **Short-term:** Enhance my skills in deep learning and big data technologies.
-- **Long-term:** Lead data-driven projects that drive business success and innovation.
-
-### 📫 Let's Connect
-
-- **LinkedIn:** [Sharon Zacharia](https://www.linkedin.com/in/sharonzach)
-- **Twitter:** [@SharonZacharia](https://twitter.com/SharonZacharia)
-- **Email:** zachariasharon@gmail.com
-
----
 
 Feel free to explore my repositories and connect with me! I'm always open to collaborations and exciting new opportunities. 🚀
 
