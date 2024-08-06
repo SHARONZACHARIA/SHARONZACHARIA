@@ -39,23 +39,12 @@ I am a data enthusiast with a passion for transforming raw data into meaningful 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌟 Featured Projects
-
-- **[Project A](https://github.com/SHARONZACHARIA/project-a):** 
-  - **Description:** A comprehensive analysis of retail sales data to uncover trends and insights.
-  - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
-- **[Project B](https://github.com/SHARONZACHARIA/project-b):**
-  - **Description:** Predictive modeling to forecast stock prices using machine learning techniques.
-  - **Technologies Used:** R, Scikit-Learn, TensorFlow
-- **[Project C](https://github.com/SHARONZACHARIA/project-c):**
-  - **Description:** Interactive data visualization dashboard for exploring global environmental data.
-  - **Technologies Used:** Tableau, SQL
 
 ### 📚 Education
 
-- **Bachelor of Science in Data Science**
-  - University XYZ
-  - Graduated: 2023
+- **MSc Data Science with advanced Research**
+  - University of Hertfordshire 
+  
 
 ### 🎯 Goals
 
@@ -64,9 +53,8 @@ I am a data enthusiast with a passion for transforming raw data into meaningful 
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Sharon Zacharia](https://www.linkedin.com/in/sharonzacharia)
-- **Twitter:** [@SharonZacharia](https://twitter.com/SharonZacharia)
-- **Email:** sharonzacharia@example.com
+- **LinkedIn:** [Sharon Zacharia](https://www.linkedin.com/in/sharonzach)
+- **Email:** zachariasharon@gmail.com
 
 ---
 
