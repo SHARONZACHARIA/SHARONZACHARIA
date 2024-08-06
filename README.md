@@ -1,61 +1,68 @@
-# Sharon Zacharia 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 👋 Hello, I'm Sharon Zacharia!
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharonzacharia&theme=dark&show_icons=true&hide=contribs,prs">
+🔍 **Aspiring Data Scientist & Analyst**  
+🌐 [Visit my Portfolio](https://sharonzacharia.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonzacharia&layout=compact&theme=dark">
-</p>
+---
 
+### 🚀 About Me
 
-## Technologies and Tools
+I am a data enthusiast with a passion for transforming raw data into meaningful insights. My journey in data science and analytics has equipped me with a strong foundation in statistical analysis, machine learning, and data visualization. I am dedicated to continuous learning and thrive on tackling challenging problems.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=success)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=blue&color=success)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=green&color=success)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=success)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=success)
+### 🔧 Technologies & Tools
 
+- **Languages:** 
+  - Python 🐍
+  - R 📊
+  - SQL 💻
+- **Libraries & Frameworks:** 
+  - Pandas 🐼
+  - NumPy 🔢
+  - Matplotlib 📉
+  - Seaborn 🌊
+  - Scikit-Learn 🤖
+  - TensorFlow 🔮
+- **Tools:** 
+  - Jupyter Notebook 📒
+  - Tableau 📊
+  - Power BI 📈
+  - Git 🌐
+- **Databases:** 
+  - MySQL 🗄️
+  - PostgreSQL 🗃️
+  - MongoDB 🗂️
 
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=success)
-![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=green&color=success)
-![](https://img.shields.io/badge/Monitoring-Splunk-blue)
-![](https://img.shields.io/badge/Middleware-WebLogic-blue)
-![](https://img.shields.io/badge/Cloud-AWS-blue)
-![](https://img.shields.io/badge/Monitoring-Dynatrace-blue)
+### 🌟 Featured Projects
 
+- **[Project A](https://github.com/SHARONZACHARIA/project-a):** 
+  - **Description:** A comprehensive analysis of retail sales data to uncover trends and insights.
+  - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
+- **[Project B](https://github.com/SHARONZACHARIA/project-b):**
+  - **Description:** Predictive modeling to forecast stock prices using machine learning techniques.
+  - **Technologies Used:** R, Scikit-Learn, TensorFlow
+- **[Project C](https://github.com/SHARONZACHARIA/project-c):**
+  - **Description:** Interactive data visualization dashboard for exploring global environmental data.
+  - **Technologies Used:** Tableau, SQL
 
+### 📚 Education
 
+- **Bachelor of Science in Data Science**
+  - University XYZ
+  - Graduated: 2023
 
-![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=blue&color=success)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=success)
-![](https://img.shields.io/badge/Tool-FireBase-informational?style=flat&logo=firebase&logoColor=yellow&color=success)
+### 🎯 Goals
 
-## Medium Articles 
-(https://medium.com/@sharonzacharia)
+- **Short-term:** To enhance my skills in deep learning and big data technologies.
+- **Long-term:** To lead data-driven projects that drive business success and innovation.
 
+### 📫 Let's Connect
 
+- **LinkedIn:** [Sharon Zacharia](https://www.linkedin.com/in/sharonzacharia)
+- **Twitter:** [@SharonZacharia](https://twitter.com/SharonZacharia)
+- **Email:** sharonzacharia@example.com
 
-[![Python](https://img.shields.io/badge/Flutter-Dark_Mode_Using_Provider-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/@sharonzacharia/flutter-provider-package-dark-mode-an-example-application-b51acbcede4f)
-[![](https://img.shields.io/badge/Flutter-On_Device_ML_Using_TFLite-informational?style=flat&logo=flutter&logoColor=blue&color=success)](https://medium.com/flutter-community/on-device-ml-with-custom-tflite-models-in-flutter-apps-5efed94ede0b)
+---
 
+Feel free to explore my repositories and connect with me! I'm always open to collaborations and exciting new opportunities. 🚀
 
-[![](https://img.shields.io/badge/Flask-Deploy_ML_Models-informational?style=flat&logo=flask&logoColor=white&color=success)](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
-[![](https://img.shields.io/badge/Django-Deply_Django_Apps_On_AWS-informational?style=flat&logo=django&logoColor=green&color=success)](https://medium.com/analytics-vidhya/deploying-django-apps-e2f4d4f355a1)
-
-
-
-<!--
-**SHARONZACHARIA/SHARONZACHARIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
