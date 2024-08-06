@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Sharon Zacharia!
 
 🔍 **Aspiring Data Scientist & Analyst**  
-🌐 [Visit my Portfolio](https://sharonzacharia.com) | 💼 [LinkedIn](https://www.linkedin.com/in/sharonzach) | 📧 zachariasharon@gmail.com
+🌐 [Visit my Portfolio](https://sharonzacharia.github.io/portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/sharonzach) | 📧 zachariasharon@gmail.com
 
 ---
 
@@ -13,6 +13,7 @@
 - 💡 **Insight Generation:** Excel in transforming raw data into valuable business insights that drive informed decision-making.
 - 🤖 **Machine Learning:** Skilled in developing predictive models using machine learning and deep learning techniques.
 - 📈 **Data-Driven Strategies:** Enhance data-driven strategies for optimal outcomes.
+
 
 ### 🔧 Technologies & Tools
 
@@ -55,19 +56,17 @@
 
 ### 🌟 Featured Projects
 
-- **[Offensive Sentence Detection App](https://github.com/SHARONZACHARIA/offensive-sentence-detection):** 
+- **[Offensive Sentence Detection App](https://github.com/SHARONZACHARIA/OnDeviceML):** 
   - **Description:** Developed a Flutter mobile app utilizing on-device ML with TF Lite models for detecting offensive sentences locally, integrating Keras models and Flutter's platform-specific channel for inference.
   - **Technologies Used:** Flutter, TensorFlow Lite, Keras
-- **[Image Classification and Search Application](https://github.com/SHARONZACHARIA/image-classification-search):**
+- **[Image Classification and Search Application](https://github.com/SHARONZACHARIA/Deploy-ML-model):**
   - **Description:** Created an image classification and search application using Flask, Flutter, and MongoDB, deploying a pre-trained Keras ResNet50 model as REST APIs for efficient image retrieval.
   - **Technologies Used:** Flask, Flutter, MongoDB, Keras
-- **[Genetic Algorithm Watermarking System](https://github.com/SHARONZACHARIA/genetic-algorithm-watermarking):**
-  - **Description:** Engineered a robust watermarking system using a Genetic Algorithm for optimal watermark calculation and embedding techniques to ensure data quality.
-  - **Technologies Used:** Python, Genetic Algorithms
-- **[Nobel Prize Analysis](https://github.com/SHARONZACHARIA/nobel-prize-analysis):**
+
+- **[Nobel Prize Analysis](https://github.com/SHARONZACHARIA/ADS-Visualization-Assgn-1):**
   - **Description:** Analyzed the Nobel Prize dataset from 1901 to 2020, employing visualization techniques like line plots, pie charts, and bar charts.
   - **Technologies Used:** Python, Pandas, Matplotlib
-- **[World Bank Gender Statistics Analysis](https://github.com/SHARONZACHARIA/gender-statistics-analysis):**
+- **[World Bank Gender Statistics Analysis](https://github.com/SHARONZACHARIA/Infographics_Project):**
   - **Description:** Examined indicators across various countries using data from the World Bank's Gender Statistics repository, including population, death rate, birth rate, and unemployment rate.
   - **Technologies Used:** Python, Pandas, Matplotlib, Seaborn
 
@@ -80,6 +79,7 @@
 
 ### 🏆 Awards And Certifications
 
+- **Microsoft Certified: Azure AI Fundamentals**
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
 - **Google Skills Badge - Generative AI Fundamentals**
 
