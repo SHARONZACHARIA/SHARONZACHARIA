@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Sharon Zacharia!
 
 🔍 **Aspiring Data Scientist & Analyst**  
-🌐 [Visit my Portfolio](https://sharonzacharia.com)
+🌐 [Visit my Portfolio](https://sharonzacharia.github.io/portfolio/)
 
 ---
 
@@ -45,11 +45,6 @@ I am a data enthusiast with a passion for transforming raw data into meaningful 
 - **MSc Data Science with advanced Research**
   - University of Hertfordshire 
   
-
-### 🎯 Goals
-
-- **Short-term:** To enhance my skills in deep learning and big data technologies.
-- **Long-term:** To lead data-driven projects that drive business success and innovation.
 
 ### 📫 Let's Connect
 
